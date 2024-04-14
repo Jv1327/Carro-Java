@@ -1,0 +1,53 @@
+# Exercicio passado na Faculdade.
+
+Programação Orientada a Objetos;
+
+        Atividade:
+
+Objetivo: Projetar e implementar uma classe Carro em Java, utilizando os
+conceitos de orientação a objetos como encapsulamento, métodos e atributos.
+
+        Descrição da Tarefa:
+
+    1. Definir a Classe Carro: Crie uma classe chamada Carro. Esta classe deve
+ter os seguintes atributos privados:
+
+ marca (String)
+ modelo (String)
+ ano (int)
+ cor (String)
+ velocidadeAtual (double)
+
+    2. Construtor: Implemente um construtor para a classe Carro que inicialize
+a marca, o modelo, o ano e a cor do carro. A velocidade inicial deve ser
+definida como 0.
+
+    3. Métodos de Acesso (Getters e Setters): Forneça métodos públicos para
+obter e definir os valores dos atributos. Lembre-se de que os métodos
+set podem incluir validações.
+
+    4. Método Acelerar: Implemente um método chamado acelerar que
+aumente a velocidadeAtual de acordo com um valor passado como
+parâmetro.
+
+    5. Método Frear: Implemente um método chamado frear que diminua a
+velocidadeAtual. O carro não pode ter velocidade negativa.
+
+    6. Método ExibirInformações: Implemente um método para exibir todas
+as informações do carro, incluindo sua velocidade atual.
+
+        Desafio Adicional (Opcional):
+
+     Implemente um método que simule a troca de marchas do carro.
+     Adicione um atributo para o nível de combustível e métodos para
+abastecer e calcular o consumo.
+
+        Instruções:
+
+     Utilize conceitos de encapsulamento adequadamente.
+     Escreva comentários explicativos no código.
+     Teste a classe criando objetos e chamando seus métodos.
+    
+Este exercício permite que você pratique os conceitos básicos de orientação a
+objetos em Java, como a criação de classes, o uso de atributos e métodos, e a
+implementação de encapsulamento.
